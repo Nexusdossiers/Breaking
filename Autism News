@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breaking: White House Announces New Autism Research Initiative</title>
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-XXXXXXXXXX');
+    </script>
+    
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            line-height: 1.7; 
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #ff6b6b, #ee5a24);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        .breaking-badge {
+            background: #fff;
+            color: #ee5a24;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 0.9em;
+            display: inline-block;
+            margin-bottom: 15px;
+        }
+        h1 { 
+            margin: 0;
+            font-size: 2.2em;
+            font-weight: 700;
+        }
+        .content {
+            padding: 40px;
+        }
+        .highlight-box {
+            background: #f8f9fa;
+            border-left: 5px solid #ee5a24;
+            padding: 20px;
+            margin: 25px 0;
+            border-radius: 0 10px 10px 0;
+        }
+        .key-points {
+            background: #e3f2fd;
+            padding: 25px;
+            border-radius: 10px;
+            margin: 25px 0;
+        }
+        .key-points h3 {
+            color: #1565c0;
+            margin-top: 0;
+        }
+        .point {
+            margin: 15px 0;
+            padding-left: 25px;
+            position: relative;
+        }
+        .point::before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            color: #1565c0;
+            font-weight: bold;
+        }
+        .disclaimer {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 25px 0;
+            font-size: 0.95em;
+        }
+        .timestamp {
+            color: #666;
+            font-size: 0.9em;
+            font-style: italic;
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="breaking-badge">BREAKING NEWS</div>
+            <h1>White House Announces Major Autism Research Initiative</h1>
+            <p style="margin: 10px 0 0 0; opacity: 0.9;">Historic announcement promises new safety guidelines and research funding</p>
+        </div>
+        
+        <div class="content">
+            <div class="highlight-box">
+                <strong>What happened:</strong> President Trump and HHS Secretary Robert F. Kennedy Jr. announced what they called "historic steps to confront the crisis of autism" during a White House briefing today.
+            </div>
+
+            <p>In a significant development for autism research and family safety, the White House has unveiled a comprehensive initiative targeting autism risk factors and advancing scientific understanding of the condition.</p>
+
+            <div class="key-points">
+                <h3>🔍 Key Announcements Include:</h3>
+                
+                <div class="point">
+                    <strong>Updated Pregnancy Guidelines:</strong> New recommendations regarding acetaminophen (Tylenol) use during pregnancy, with officials suggesting it should be limited to cases of high fever
+                </div>
+                
+                <div class="point">
+                    <strong>Childhood Vaccine Updates:</strong> Recommendations for mercury and aluminum-free vaccines for babies, with potential delays for certain vaccines like Hepatitis B until age 12
+                </div>
+                
+                <div class="point">
+                    <strong>$50 Million Research Investment:</strong> Launch of the Autism Data Science Initiative by the National Institutes of Health to investigate causes and mechanisms
+                </div>
+                
+                <div class="point">
+                    <strong>New Treatment Option:</strong> FDA consideration of leucovorin as a potential autism treatment
+                </div>
+                
+                <div class="point">
+                    <strong>Healthcare Provider Alerts:</strong> Updated labeling requirements to inform medical professionals of new safety considerations
+                </div>
+            </div>
+
+            <p>This coordinated effort involves multiple federal agencies including the Department of Health and Human Services (HHS), NIH, and the Centers for Disease Control and Prevention (CDC). The initiative represents what officials describe as the most comprehensive approach to autism research and safety in recent years.</p>
+
+            <div class="disclaimer">
+                <strong>📋 Important Note:</strong> These announcements represent new administrative guidance and research initiatives. Families should consult with their healthcare providers before making any changes to medications or vaccination schedules. The scientific community continues to study potential autism risk factors.
+            </div>
+
+            <p><strong>Looking Forward:</strong> The administration promises that this is just the beginning of expanded autism research and safety measures, with additional announcements expected as research progresses.</p>
+
+            <div class="timestamp">
+                Last updated: September 22, 2025 | Source: White House Official Announcement
+            </div>
+        </div>
+    </div>
+</body>
+</html>
